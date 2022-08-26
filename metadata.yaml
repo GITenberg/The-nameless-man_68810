@@ -1,0 +1,35 @@
+_repo: The-nameless-man_68810
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ballinger, Harry Russell
+    alias: Ballinger, H. R. (Harry Russell)
+    birthdate: 1892
+    deathdate: 1993
+    gutenberg_agent_id: '36190'
+    url: http://www.gutenberg.org/2009/agents/36190
+creator:
+  author:
+    agent_name: Lincoln, Natalie Sumner
+    birthdate: 1881
+    deathdate: 1935
+    gutenberg_agent_id: '711'
+    url: http://www.gutenberg.org/2009/agents/711
+    wikipedia: https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln
+description: ''
+gutenberg_issued: '2022-08-22'
+identifiers:
+  gutenberg: '68810'
+language: en
+pgterms:marc905: 20200630151611lincoln
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United States :D. Appleton and Company,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The nameless man
+url: http://www.gutenberg.org/ebooks/68810
